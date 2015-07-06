@@ -29,8 +29,7 @@ Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
 
 ### apm
 
-* Make sure you have [Atom](https://atom.io/) (with apm) installed
-* Install theme`apm install kimbie-light`
+* Install theme`apm install kimbie-light` or use the GUI
 
 ### GitHub
 
